@@ -111,8 +111,6 @@ Purchase it by adding .xlon. on discord or joining the support server: discord.g
 - `exit`: Closes the bot.
 - `chatp`: Purges the chat.
 - `clear`: Clears your messages. Usage: `{prefix}CLEAR <AMOUNT>`.
-
-
 - `clearcmds`: Clears your commands.
 - `purge`: Purges chat messages. Usage: `{prefix}PURGE <amount>`.
 - `hide`: Hides past messages. Usage: `{prefix}HIDE <AMOUNT>`.
