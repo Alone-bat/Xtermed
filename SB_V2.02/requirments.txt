@@ -1,0 +1,16 @@
+discord.py==1.7.3
+requests==2.21.0
+lyricsgenius==3.0.1
+colorama==0.4.4
+discum==1.1.0
+discord_webhooks
+sys
+threading
+datetime
+requests
+dotenv
+json
+random
+asyncio
+time
+string

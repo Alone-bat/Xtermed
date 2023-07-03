@@ -1,0 +1,24 @@
+{
+    "PREFIX": "PREFIX",
+    "COLOR": "SEE COLORCHOICES",
+    "COLORCHOICES": "CHOOSE BETWEEN: BLACK, BLUE, CYAN, RED, GREEN, MAGENTA, LIGHTBLACK, LIGHTBLUE, LIGHTCYAN, LIGHTGREEN, LIGHTMAGENTA, LIGHTRED",
+    "owner": "",
+    "VERSION": "V2.01",
+    "POLL_CHANNEL": [],
+    "STREAM_URL": "https://www.twitch.tv/xterm3d",
+    "AUTODELETE": "FALSE/TRUE",
+    "AUTODELETE_TIME": "10",
+    "GENIUS": "https://docs.genius.com/",
+    "MOCK": [],
+    "WL": [],
+    "STALK": [],
+    "WLPERMS": [
+        "wl",
+        "dmall",
+        "cleardms",
+        "leavegroups",
+        "wlenable",
+        "unwl",
+        "clearwl"
+    ]
+}
