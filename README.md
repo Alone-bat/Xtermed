@@ -133,6 +133,6 @@ Purchase it by adding .xlon. on discord or joining the support server: discord.g
 - `massreact`: Reacts to past messages. Usage: `{prefix}MASSREACT <amount> <emoji>`.
 - `repeat`: Repeats your message multiple times. Usage: `{prefix}REPEAT <AMOUNT> <MESSAGE>`.
 
-Feel free to explore and utilize these commands to enhance your server experience with **Bot Name**. If you have any questions or need assistance, please refer to the bot's documentation or reach out to the support team. Enjoy using **XTERMED**!
+Feel free to explore and utilize these commands to enhance your server experience with **XTERMED**. If you have any questions or need assistance, please refer to the bot's documentation or reach out to the support team. Enjoy using **XTERMED**!
 ## DISCLAIMER
 The automation of User Discord accounts also known as self-bots is a violation of Discord Terms of Service {prefix} Community guidelines and will result in your account(s) being terminated. Discretion is adviced. I will not be responsible for your actions. Read about Discord Terms Of service and Community Guidelines
