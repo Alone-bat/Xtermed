@@ -147,6 +147,6 @@ Now run the setup.bat file if u are on windows, if you are on linux or mac run t
 This wil automatically run the script
 
 ## STEP 4
-To make the script work you'll need a key, contact .xlon. on discord or join our [Discord server](https://discord.gg/xzUZpERRWa)
-To check your subscription you can run the `{prefix}mybot` command
+To make the script work you'll need a key, contact .xlon. on discord or join our [Discord server](https://discord.gg/xzUZpERRWa).
+To check your subscription you can run the `{prefix}mybot` command.
 To run the bot afterwards you will have to run the start.bat
