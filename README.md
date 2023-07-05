@@ -134,3 +134,19 @@ Purchase it by adding .xlon. on discord or joining the support server: discord.g
 Feel free to explore and utilize these commands to enhance your server experience with **XTERMED**. If you have any questions or need assistance, please refer to the bot's documentation or reach out to the support team. Enjoy using **XTERMED**!
 ## DISCLAIMER
 The automation of User Discord accounts also known as self-bots is a violation of Discord Terms of Service {prefix} Community guidelines and will result in your account(s) being terminated. Discretion is adviced. I will not be responsible for your actions. Read about Discord Terms Of service and Community Guidelines
+
+# HOW TO INSTALL
+## STEP 1
+Download the zip file and extract the files from the zip
+
+## STEP 2
+Fill in the config.json file with your preferences, and rename the `renameto-dotenv` to `.env`. In this file you will have to put your [Discord token](https://www.followchain.org/find-discord-token/)
+
+## STEP 3
+Now run the setup.bat file if u are on windows, if you are on linux or mac run the setup.sh
+This wil automatically run the script
+
+## STEP 4
+To make the script work you'll need a key, contact .xlon. on discord or join our [Discord server](https://discord.gg/xzUZpERRWa)
+To check your subscription you can run the `{prefix}mybot` command
+To run the bot afterwards you will have to run the start.bat
