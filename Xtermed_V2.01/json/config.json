@@ -10,6 +10,7 @@
     "AUTODELETE_TIME": "10",
     "GENIUS": "https://docs.genius.com/",
     "MOCK": [],
+    "MOCKCONFIG": 5,
     "WL": [],
     "STALK": [],
     "WLPERMS": [
