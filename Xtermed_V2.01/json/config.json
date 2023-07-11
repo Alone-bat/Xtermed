@@ -7,7 +7,7 @@
     "POLL_CHANNEL": [],
     "STREAM_URL": "https://www.twitch.tv/xterm3d",
     "AUTODELETE": "FALSE/TRUE",
-    "AUTODELETE_TIME": "10",
+    "AUTODELETE_TIME": "5",
     "GENIUS": "https://docs.genius.com/",
     "MOCK": [],
     "MOCKCONFIG": 5,
