@@ -4,6 +4,7 @@ lyricsgenius==3.0.1
 colorama==0.4.4
 discum==1.1.0
 discord_webhooks
+discord_webhook
 requests==2.21.0
 python-dotenv
 fuzzywuzzy==0.18.0
