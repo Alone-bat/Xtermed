@@ -3,7 +3,7 @@
     "COLOR": "RED",
     "COLORCHOICES": "CHOOSE BETWEEN: RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN ",
     "owner": "OWNER",
-    "VERSION": "V2.03",
+    "VERSION": "V2.04",
     "POLL_CHANNEL": [],
     "STREAM_URL": "https://www.twitch.tv/xterm3d",
     "MOCKCHANNEL": [],
