@@ -23,6 +23,4 @@ REM Run the main script
 echo Starting the application...
 python main.pyc
 
-REM Delete the batch file
-del "%~f0"
-exit /b
+
