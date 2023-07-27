@@ -9,3 +9,4 @@ requests==2.21.0
 python-dotenv
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.21.1
+pypresence
